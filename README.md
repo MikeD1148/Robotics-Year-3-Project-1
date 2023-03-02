@@ -12,7 +12,7 @@ Open either the Manual, Fully Auto, or Semi Auto Zumo folders and double click t
 
 Make sure you have Arduino IDE and the ZUMO32U4 Library installed
 
-Install KeySticks and remap the Xbox Controller Joystick/D-Pad to send "W,A,S,D,Q,E,Z,X, ".
+Install KeySticks and remap the Xbox Controller Joystick/D-Pad to send "W,A,S,D,Q,E,Z,X, ,k".
 
 Finally upload the Code to your Zumo and Start the GUI
 
